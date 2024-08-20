@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Chawla</h1>
-<h3 align="center">Problem Solver | Web Developer
+<h3 align="center">Problem Solver | Mern Stack Developer
 <br><br>
 </h3>
 <h4 align="center">Hello, I'm Chirag Chawla a final year undergraduate from Chitkara University, Himachal Pradesh.</h4>
