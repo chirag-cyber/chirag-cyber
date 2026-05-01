@@ -20,7 +20,7 @@ Building scalable apps, real-time systems, and solving real-world problems throu
 - 🎓 Graduate (2024) from **Chitkara University, Himachal Pradesh**
 - 💼 Currently working as **Integration Specialist @ Genpact**
 - 🔄 Experienced in **ServiceNow & Salesforce ecosystems**
-- 💻 2.5+ backend + full-stack development experience
+- 💻 2.5+ years backend + full-stack development experience
 - 🧠 Love building **real-time apps, automation systems & scalable APIs**
 - 🔥 Prefer **coding-heavy work over drag-and-drop tools**
 
